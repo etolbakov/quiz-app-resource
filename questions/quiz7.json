@@ -1,0 +1,268 @@
+[
+
+  {
+    "question": "What year did the Battle of Hastings take place?",
+    "options": [
+      "1066",
+      "1215",
+      "1485",
+      "1666"
+    ],
+  "correct": [2],
+  "explanation": "The Battle of Hastings occurred in 1066, marking the Norman conquest of England."      
+},
+    {
+        "question": "Which Monarch reigned during World War II?",
+        "options": [
+          "Queen Victoria",
+          "King George VI",
+          "Queen Elizabeth II",
+          "King Edward VIII"
+        ],
+      "correct": [1],
+      "explanation": "King George VI was the monarch during World War II, reigning from 1936 to 1952."      
+    },
+    {
+        "question": "Who was the Prime Minister during most of World War II?",
+        "options": [
+          "Neville Chamberlain",
+          "Winston Churchill",
+          "Margaret Thatcher",
+          "Clement Attlee"
+        ],
+      "correct": [2],
+      "explanation": "Winston Churchill served as Prime Minister for most of World War II, from 1940 to 1945."      
+    },      
+    {
+      "question": "What is the name of the patron saint of England?",
+      "options": [
+        "Saint David",
+        "Saint Andrew",
+        "Saint Patrick",
+        "Saint George"
+      ],
+      "correct": [3],
+      "explanation": "Saint George is the patron saint of England, celebrated on April 23rd."
+    },
+    {
+      "question": "In which city is the Edinburgh Festival held?",
+      "options": [
+        "Glasgow",
+        "Edinburgh",
+        "Cardiff",
+        "Belfast"
+      ],
+      "correct":[1],
+      "explanation": "The Edinburgh Festival, including the famous Fringe Festival, is held annually in Edinburgh, Scotland."
+    },
+    {
+      "question": "What type of government does the United Kingdom have?",
+      "options": [
+        "Presidential republic",
+        "Parliamentary democracy",
+        "Absolute monarchy",
+        "Federal republic"
+      ],
+      "correct": [1],
+      "explanation": "The United Kingdom has a parliamentary democracy, where the Prime Minister is the head of government and the monarch is the head of state."
+    },
+    {
+      "question": "Which of these is NOT a part of the United Kingdom?",
+      "options": [
+        "England",
+        "Scotland",
+        "Wales",
+        "Republic of Ireland"
+      ],
+      "correct": [3],
+      "explanation": "The Republic of Ireland is a separate sovereign nation and is not part of the United Kingdom, which consists of England, Scotland, Wales, and Northern Ireland."
+    },
+    {
+      "question": "What is the name of the river that flows through London?",
+      "options": [
+        "River Severn",
+        "River Thames",
+        "River Mersey",
+        "River Tyne"
+      ],
+      "correct": [1],
+      "explanation": "The River Thames is the river that flows through London, and it is the longest river entirely in England."
+    },
+    {
+      "question": "Who wrote the play 'Hamlet'?",
+      "options": [
+        "Jane Austen",
+        "William Shakespeare",
+        "Charles Dickens",
+        "George Orwell"
+      ],
+      "correct": [1],
+      "explanation": "William Shakespeare wrote the play 'Hamlet', which is one of his most famous tragedies."
+    },
+    {
+      "question": "What is the minimum age to vote in a UK general election?",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "25"
+      ],
+      "correct": [1],
+      "explanation": "The minimum age to vote in a UK general election is 18 years old."
+    },
+    {
+      "question": "What is the capital city of Wales?",
+      "options": [
+        "Swansea",
+        "Cardiff",
+        "Newport",
+        "Bangor"
+      ],
+      "correct": [1],
+      "explanation": "Cardiff is the capital city of Wales and is known for its rich history and cultural heritage."
+    },
+    {
+      "question": "Which event is celebrated on 5th November?",
+      "options": [
+        "Christmas Day",
+        "Guy Fawkes' Night",
+        "Easter Monday",
+        "Boxing Day"
+      ],
+      "correct": [1],
+      "explanation": "Guy Fawkes' Night, also known as Bonfire Night, is celebrated on 5th November to commemorate the foiling of the Gunpowder Plot in 1605."
+    },
+    {
+      "question": "What is the name of the UK's national anthem?",
+      "options": [
+        "Land of Hope and Glory",
+        "God Save the King/Queen",
+        "Rule, Britannia!",
+        "Jerusalem"
+      ],
+      "correct": [1],
+      "explanation": "The national anthem of the United Kingdom is 'God Save the King' (or 'God Save the Queen' when the reigning monarch"
+    },
+    {
+      "question": "Which famous scientist developed the theory of gravity?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Stephen Hawking",
+        "Marie Curie"
+      ],
+      "correct": [1],
+      "explanation": "Isaac Newton developed the theory of gravity, famously describing it as the force that keeps planets in orbit around the sun."  
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "options": [
+        "Euro",
+        "Pound Sterling",
+        "US Dollar",
+        "Swiss Franc"
+      ],
+      "correct": [1],
+      "explanation": "The currency of the United Kingdom is the Pound Sterling, often simply referred to as the pound."
+    },
+    {
+      "question": "Which year did the United Kingdom join the European Economic Community (EEC)?",
+      "options": [
+        "1957",
+        "1973",
+        "1986",
+        "1992"
+      ],
+      "correct": [1],
+      "explanation": "The United Kingdom joined the European Economic Community (EEC) in 1973, which later became the European Union (EU)."
+    },
+    {
+      "question": "What is the name of the highest mountain in the UK?",
+      "options": [
+        "Scafell Pike",
+        "Ben Nevis",
+        "Snowdon",
+        "Slieve Donard"
+      ],
+      "correct": [1],
+      "explanation": "Ben Nevis, located in Scotland, is the highest mountain in the UK, standing at 1,345 meters (4,413 feet) above sea level."  
+    },
+    {
+      "question": "Which flower is traditionally associated with England?",
+      "options": [
+        "Thistle",
+        "Rose",
+        "Daffodil",
+        "Shamrock"
+      ],
+      "correct": [1],
+      "explanation": "The rose is the national flower of England, symbolizing love and beauty."
+    },
+    {
+      "question": "What is the name of the UK's national broadcasting organisation?",
+      "options": [
+        "ITV",
+        "BBC",
+        "Channel 4",
+        "Sky"
+      ],
+      "correct": [1],
+      "explanation": "The British Broadcasting Corporation (BBC) is the UK's national broadcasting organisation, known for its impartial news and diverse programming."
+    },
+    {
+      "question": "In which century did the Industrial Revolution begin in Britain?",
+      "options": [
+        "16th century",
+        "17th century",
+        "18th century",
+        "19th century"
+      ],
+      "correct": [2],
+      "explanation": "The Industrial Revolution began in Britain in the late 18th century, transforming manufacturing and society."
+    },
+    {
+      "question": "What is the name of the famous prehistoric monument in Wiltshire?",
+      "options": [
+        "Hadrian's Wall",
+        "Stonehenge",
+        "Avebury",
+        "Silbury Hill"
+      ],
+      "correct": [1],
+      "explanation": "Stonehenge is a famous prehistoric monument located in Wiltshire, England, known for its massive stone circle."
+    },
+    {
+      "question": "Which British monarch was known as the 'Virgin Queen'?",
+      "options": [
+        "Queen Victoria",
+        "Queen Elizabeth I",
+        "Queen Anne",
+        "Queen Mary I"
+      ],
+      "correct": [1],
+      "explanation": "Queen Elizabeth I, who reigned from 1558 to 1603, was known as the 'Virgin Queen' because she never married and was the last monarch of the Tudor dynasty."
+    },
+    {
+      "question": "What is the name of the longest river in the UK?",
+      "options": [
+        "River Severn",
+        "River Thames",
+        "River Trent",
+        "River Wye"
+      ],
+      "correct": [0],
+      "explanation": "The River Severn is the longest river in the UK, flowing through Wales and England for about 220 miles (354 km)."
+    },
+    {
+      "question": "Which British city is known for its annual music festival, Glastonbury?",
+      "options": [
+        "London",
+        "Bristol",
+        "Manchester",
+        "Glastonbury"
+      ],
+      "correct": [3],
+      "explanation": "Glastonbury is a town in Somerset, England, famous for the Glastonbury Festival, one of the largest music festivals in the world."
+    }
+
+]
