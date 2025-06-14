@@ -1,5 +1,4 @@
 [
-
     {
       "question": "What is the name of the famous British rock band that included members John Lennon and Paul McCartney?",
       "options": [
@@ -98,7 +97,7 @@
       ],
       "correct": [0],
       "explanation": "The rose is often considered the national flower of England, symbolizing love and beauty."
-    }
+    },
   {
       "question": "What is the name of the UK's national sport?",
       "options": [
@@ -219,5 +218,49 @@
       ],
       "correct": [1],
       "explanation": "British Airways is the UK's national airline, known for its extensive international and domestic flight network."
-    }
+    },
+  {
+    "question": "Which UK city is known for its annual Fringe Festival?",
+    "options": [
+      "London",
+      "Edinburgh",
+      "Manchester",
+      "Birmingham"
+    ],
+    "correct": [1],
+    "explanation": "Edinburgh is known for its annual Fringe Festival."
+  },
+  {
+    "question": "What is the name of the UK's national anthem?",
+    "options": [
+      "The Star-Spangled Banner",
+      "O Canada",
+      "God Save the Queen",
+      "La Marseillaise"
+    ],
+    "correct": [2],
+    "explanation": "The UK's national anthem is 'God Save the Queen.'"
+  },
+  {
+    "question": "Which flower is associated with England?",
+    "options": [
+      "Thistle",
+      "Shamrock",
+      "Rose",
+      "Daffodil"
+    ],
+    "correct": [2],
+    "explanation": "The Rose is the flower associated with England."
+  },
+  {
+    "question": "What is the official residence of the British Prime Minister?",
+    "options": [
+      "Buckingham Palace",
+      "10 Downing Street",
+      "Windsor Castle",
+      "The Houses of Parliament"
+    ],
+    "correct": [1],
+    "explanation": "10 Downing Street is the official residence of the British Prime Minister."
+  }
 ]

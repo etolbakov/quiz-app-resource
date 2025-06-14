@@ -218,8 +218,49 @@
     ],
     "correct": [2],
     "explanation": "The Union Jack is the national flag of the United Kingdom."
+  },
+  {
+    "question": "Which of the following is a traditional British dish?",
+    "options": [
+      "Sushi",
+      "Paella",
+      "Fish and Chips",
+      "Tacos"
+    ],
+    "correct": [2],
+    "explanation": "Fish and Chips is a traditional British dish."
+  },
+  {
+    "question": "What is the currency used in the United Kingdom?",
+    "options": [
+      "Euro",
+      "Pound Sterling",
+      "US Dollar",
+      "Canadian Dollar"
+    ],
+    "correct": [1],
+    "explanation": "The currency used in the United Kingdom is the Pound Sterling."
+  },
+  {
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": [
+      "Margaret Thatcher",
+      "Theresa May",
+      "Angela Merkel",
+      "Nicola Sturgeon"
+    ],
+    "correct": [0],
+    "explanation": "Margaret Thatcher was the first female Prime Minister of the UK."
+  },
+  {
+    "question": "What is the capital city of the United Kingdom?",
+    "options": [
+      "Edinburgh",
+      "Cardiff",
+      "London",
+      "Belfast"
+    ],
+    "correct": [2],
+    "explanation": "London is the capital city of the United Kingdom."
   }
 ]
-```
-
-Let me know if you'd like these exported to a `.json` file or want to simulate a test.
