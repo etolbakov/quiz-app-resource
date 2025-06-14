@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Which British holiday celebrates the failure of the Gunpowder Plot?",
+    "options": [
+      "Bonfire Night",
+      "Boxing Day",
+      "May Day",
+      "Remembrance Sunday"
+    ],
+    "correct": [0],
+    "explanation": "Bonfire Night is celebrated on November 5th to mark the failure of Guy Fawkes' Gunpowder Plot in 1605."
+  },
+  {
+    "question": "When is Christmas Day celebrated in the UK?",
+    "options": [
+      "24 December",
+      "25 December",
+      "26 December",
+      "31 December"
+    ],
+    "correct": [1],
+    "explanation": "Christmas Day is celebrated on 25 December in the UK."
+  },
+  {
+    "question": "Which author wrote the Harry Potter series?",
+    "options": [
+      "Roald Dahl",
+      "C.S. Lewis",
+      "J.K. Rowling",
+      "Philip Pullman"
+    ],
+    "correct": [2],
+    "explanation": "J.K. Rowling is the author of the Harry Potter series, one of the most successful book franchises in the world."
+  },
+  {
+    "question": "What is the traditional meal eaten on Christmas Day in the UK?",
+    "options": [
+      "Roast beef and Yorkshire pudding",
+      "Fish and chips",
+      "Roast turkey with trimmings",
+      "Lamb stew"
+    ],
+    "correct": [2],
+    "explanation": "A traditional Christmas meal includes roast turkey with stuffing, vegetables, and gravy."
+  },
+  {
+    "question": "Which flower is a symbol of Wales?",
+    "options": [
+      "Thistle",
+      "Shamrock",
+      "Daffodil",
+      "Rose"
+    ],
+    "correct": [2],
+    "explanation": "The daffodil is one of the national symbols of Wales, often worn on St David's Day."
+  },
+  {
+    "question": "Which British event is associated with hats, horse racing, and royalty?",
+    "options": [
+      "The Chelsea Flower Show",
+      "The Boat Race",
+      "Royal Ascot",
+      "Trooping the Colour"
+    ],
+    "correct": [2],
+    "explanation": "Royal Ascot is a major horse racing event known for fashion, especially elaborate hats."
+  },
+  {
+    "question": "What do people traditionally eat on Pancake Day?",
+    "options": [
+      "Waffles",
+      "Scones",
+      "Pancakes",
+      "Yorkshire pudding"
+    ],
+    "correct": [2],
+    "explanation": "Pancake Day, or Shrove Tuesday, is marked by eating pancakes before Lent begins."
+  },
+  {
+    "question": "Who is the patron saint of Scotland?",
+    "options": [
+      "St Andrew",
+      "St George",
+      "St David",
+      "St Patrick"
+    ],
+    "correct": [0],
+    "explanation": "St Andrew is the patron saint of Scotland; his feast day is celebrated on November 30th."
+  },
+  {
+    "question": "Which UK city is famous for hosting the Notting Hill Carnival?",
+    "options": [
+      "Birmingham",
+      "Manchester",
+      "Liverpool",
+      "London"
+    ],
+    "correct": [3],
+    "explanation": "The Notting Hill Carnival, celebrating Caribbean culture, is held annually in London."
+  },
+  {
+    "question": "What is 'Hogmanay'?",
+    "options": [
+      "A Scottish dish",
+      "Scottish New Year celebrations",
+      "An ancient British dance",
+      "A Cornish festival"
+    ],
+    "correct": [1],
+    "explanation": "Hogmanay is the traditional Scottish celebration of the New Year."
+  },
+  {
+    "question": "Which British author wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Jane Austen",
+      "Mary Shelley"
+    ],
+    "correct": [2],
+    "explanation": "Jane Austen wrote 'Pride and Prejudice', a classic novel of British literature."
+  },
+  {
+    "question": "Which UK holiday is celebrated the day after Christmas?",
+    "options": [
+      "New Year's Day",
+      "St Stephen's Day",
+      "Boxing Day",
+      "Good Friday"
+    ],
+    "correct": [2],
+    "explanation": "Boxing Day is celebrated on 26 December and traditionally involved giving to the poor."
+  },
+  {
+    "question": "Which sport originated in the UK and is now played worldwide?",
+    "options": [
+      "Basketball",
+      "Cricket",
+      "Baseball",
+      "Volleyball"
+    ],
+    "correct": [1],
+    "explanation": "Cricket originated in England and is now a major international sport."
+  },
+  {
+    "question": "Which music band is known as the 'Fab Four'?",
+    "options": [
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Oasis"
+    ],
+    "correct": [2],
+    "explanation": "The Beatles, often referred to as the 'Fab Four', were a famous band from Liverpool."
+  },
+  {
+    "question": "When do people in the UK typically exchange cards and gifts to express love?",
+    "options": [
+      "Christmas",
+      "Mother's Day",
+      "Valentine's Day",
+      "Easter"
+    ],
+    "correct": [2],
+    "explanation": "Valentine's Day, on February 14th, is traditionally when people express love with gifts and cards."
+  },
+  {
+    "question": "Which of the following is a traditional British pudding?",
+    "options": [
+      "Treacle tart",
+      "Cheesecake",
+      "Baklava",
+      "Apple strudel"
+    ],
+    "correct": [0],
+    "explanation": "Treacle tart is a traditional British dessert made with golden syrup."
+  },
+  {
+    "question": "What is the name of the UK's most famous tennis tournament?",
+    "options": [
+      "The British Open",
+      "Wimbledon",
+      "The Royal Cup",
+      "The UK Classic"
+    ],
+    "correct": [1],
+    "explanation": "Wimbledon is the oldest and most prestigious tennis tournament in the world, held annually in London."
+  },
+  {
+    "question": "What is a 'pantomime' in British culture?",
+    "options": [
+      "A serious drama",
+      "A traditional Christmas comedy play",
+      "A ballet performance",
+      "A historical documentary"
+    ],
+    "correct": [1],
+    "explanation": "Pantomimes are humorous musical plays performed at Christmas, featuring audience participation and slapstick."
+  },
+  {
+    "question": "Which UK festival celebrates the start of spring with dancing around a maypole?",
+    "options": [
+      "May Day",
+      "Harvest Festival",
+      "Spring Equinox",
+      "St George's Day"
+    ],
+    "correct": [0],
+    "explanation": "May Day, on 1st May, is traditionally celebrated with maypole dancing to mark the beginning of summer."
+  },
+  {
+    "question": "What is the name of the traditional British meal usually eaten on Sunday?",
+    "options": [
+      "Full English breakfast",
+      "Fish and chips",
+      "Sunday roast",
+      "Toad in the hole"
+    ],
+    "correct": [2],
+    "explanation": "A Sunday roast typically includes roasted meat, potatoes, vegetables, and gravy."
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "question": "What is the legal voting age in general elections in the UK?",
+    "options": [
+      "16",
+      "18",
+      "21",
+      "25"
+    ],
+    "correct": [1],
+    "explanation": "In the UK, you must be 18 or over to vote in general elections."
+  },
+  {
+    "question": "What is the national religion of the UK?",
+    "options": [
+      "Islam",
+      "Christianity",
+      "Hinduism",
+      "Judaism"
+    ],
+    "correct": [1],
+    "explanation": "Christianity is the national religion, with the Church of England as the established church."
+  },
+  {
+    "question": "Which of the following is a responsibility of UK citizens?",
+    "options": [
+      "Owning property",
+      "Voting in elections",
+      "Working in public service",
+      "Serving in the military"
+    ],
+    "correct": [1],
+    "explanation": "Voting is a civic responsibility in the UK, though not compulsory."
+  },
+  {
+    "question": "What is the UK’s state-funded healthcare system called?",
+    "options": [
+      "National Welfare Scheme",
+      "British Medical Service",
+      "National Health Service (NHS)",
+      "Universal Healthcare Trust"
+    ],
+    "correct": [2],
+    "explanation": "The NHS provides healthcare services that are mostly free at the point of use."
+  },
+  {
+    "question": "Which of these is a protected characteristic under UK equality laws?",
+    "options": [
+      "Marital status",
+      "Gender reassignment",
+      "Nationality",
+      "Weight"
+    ],
+    "correct": [1],
+    "explanation": "The Equality Act 2010 protects against discrimination based on gender reassignment, among other characteristics."
+  },
+  {
+    "question": "How often are general elections held in the UK?",
+    "options": [
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years",
+      "Every 6 years"
+    ],
+    "correct": [2],
+    "explanation": "General elections are usually held every five years unless called earlier."
+  },
+  {
+    "question": "Which of the following is a right of every UK resident?",
+    "options": [
+      "Free education until 25",
+      "Right to a fair trial",
+      "Free housing",
+      "Free transportation"
+    ],
+    "correct": [1],
+    "explanation": "Everyone in the UK is entitled to a fair trial if accused of a crime."
+  },
+  {
+    "question": "Who is responsible for paying income tax in the UK?",
+    "options": [
+      "Only people over 30",
+      "Only business owners",
+      "Only British citizens",
+      "Anyone earning above the threshold"
+    ],
+    "correct": [3],
+    "explanation": "Anyone who earns above the personal allowance must pay income tax."
+  },
+  {
+    "question": "What is the minimum school leaving age in England?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correct": [3],
+    "explanation": "Young people must remain in education or training until they are 18 in England."
+  },
+  {
+    "question": "Which UK Act protects individual freedoms and limits government power?",
+    "options": [
+      "Equality Act 2010",
+      "Human Rights Act 1998",
+      "Data Protection Act 2018",
+      "Freedom of Information Act 2000"
+    ],
+    "correct": [1],
+    "explanation": "The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law."
+  },
+  {
+    "question": "Which of the following is NOT a fundamental British value?",
+    "options": [
+      "Democracy",
+      "Rule of law",
+      "Freedom of religion",
+      "Obedience to one political party"
+    ],
+    "correct": [3],
+    "explanation": "Obedience to a single political party contradicts the British value of democracy."
+  },
+  {
+    "question": "In the UK, who provides the majority of care for elderly and disabled people?",
+    "options": [
+      "Hospitals",
+      "Charities",
+      "Family members and carers",
+      "The army"
+    ],
+    "correct": [2],
+    "explanation": "Most care is provided by family members and professional carers, often supported by local councils."
+  },
+  {
+    "question": "Which one of these is a legal obligation in the UK?",
+    "options": [
+      "Owning a passport",
+      "Being registered with a GP",
+      "Paying council tax",
+      "Voting in elections"
+    ],
+    "correct": [2],
+    "explanation": "Paying council tax is a legal requirement for most households."
+  },
+  {
+    "question": "How can UK citizens contribute to their community?",
+    "options": [
+      "By travelling abroad",
+      "By avoiding taxes",
+      "By volunteering",
+      "By ignoring elections"
+    ],
+    "correct": [2],
+    "explanation": "Volunteering is a key way people support and strengthen their local communities."
+  },
+  {
+    "question": "Which UK law prohibits discrimination based on age, disability, or race?",
+    "options": [
+      "Public Order Act 1986",
+      "Equality Act 2010",
+      "Education Act 2002",
+      "Citizenship Act 2003"
+    ],
+    "correct": [1],
+    "explanation": "The Equality Act 2010 protects against discrimination based on various protected characteristics."
+  },
+  {
+    "question": "What is meant by 'freedom of speech' in the UK?",
+    "options": [
+      "You can say anything without limits",
+      "You can express opinions within the law",
+      "You can insult people freely",
+      "You are free from all government rules"
+    ],
+    "correct": [1],
+    "explanation": "Freedom of speech allows people to express their views, as long as they do not break the law."
+  },
+  {
+    "question": "Who is responsible for making laws in the UK?",
+    "options": [
+      "The police",
+      "The Prime Minister alone",
+      "Parliament",
+      "The King"
+    ],
+    "correct": [2],
+    "explanation": "Laws are made by the UK Parliament, which includes the House of Commons and the House of Lords."
+  },
+  {
+    "question": "Which of the following is a way to become a British citizen?",
+    "options": [
+      "Being born in any EU country",
+      "Living in the UK for 3 months",
+      "Marriage to a British citizen and applying for naturalisation",
+      "Getting a job in the UK"
+    ],
+    "correct": [2],
+    "explanation": "Marriage does not automatically give citizenship, but you can apply for naturalisation after meeting conditions."
+  },
+  {
+    "question": "Which of the following is an example of respecting the law in the UK?",
+    "options": [
+      "Driving over the speed limit",
+      "Paying for public transport",
+      "Avoiding jury duty",
+      "Downloading films illegally"
+    ],
+    "correct": [1],
+    "explanation": "Paying for transport and following rules are examples of good citizenship and respect for law."
+  },
+  {
+    "question": "Why is tolerance important in the UK?",
+    "options": [
+      "To limit free speech",
+      "To prevent cultural diversity",
+      "To ensure peaceful coexistence",
+      "To promote only British culture"
+    ],
+    "correct": [2],
+    "explanation": "Tolerance supports diversity and helps different groups live peacefully together in the UK."
+  }
+]

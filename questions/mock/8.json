@@ -1,0 +1,225 @@
+[
+  {
+    "question": "Which document, signed in 1215, limited the power of the monarch?",
+    "options": [
+      "The Magna Carta",
+      "The Bill of Rights",
+      "The Domesday Book",
+      "The Habeas Corpus Act"
+    ],
+    "correct": [0],
+    "explanation": "The Magna Carta was signed in 1215 and established the principle that the king was subject to the law."
+  },
+  {
+    "question": "Who was the first woman Prime Minister of the UK?",
+    "options": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Elizabeth II",
+      "Barbara Castle"
+    ],
+    "correct": [1],
+    "explanation": "Margaret Thatcher became the first female Prime Minister of the UK in 1979."
+  },
+    {
+    "question": "What year did the Battle of Hastings take place?",
+    "options": [
+      "1066",
+      "1215",
+      "1485",
+      "1666"
+    ],
+    "correct": [0],
+    "explanation": "The Battle of Hastings occurred in 1066, marking the Norman conquest of England."
+  },
+  {
+    "question": "What are the two chambers of the UK Parliament?",
+    "options": [
+      "The Senate and the Commons",
+      "The Lords and the Commons",
+      "The Assembly and the Senate",
+      "The Monarch and the Commons"
+    ],
+    "correct": [1],
+    "explanation": "The UK Parliament consists of the House of Lords and the House of Commons."
+  },
+  {
+    "question": "Which countries make up the United Kingdom?",
+    "options": [
+      "England, Wales, Scotland, Ireland",
+      "England, Scotland, Wales, Northern Ireland",
+      "Scotland, Ireland, Wales, Isle of Man",
+      "England, Northern Ireland, Ireland, Wales"
+    ],
+    "correct": [1],
+    "explanation": "The UK is made up of England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+    "question": "What is the capital city of Wales?",
+    "options": [
+      "Swansea",
+      "Cardiff",
+      "Aberystwyth",
+      "Newport"
+    ],
+    "correct": [1],
+    "explanation": "Cardiff is the capital city of Wales."
+  },
+  {
+    "question": "Which festival is celebrated on the 5th of November?",
+    "options": [
+      "Boxing Day",
+      "Bonfire Night",
+      "Remembrance Day",
+      "St George's Day"
+    ],
+    "correct": [1],
+    "explanation": "Bonfire Night, also known as Guy Fawkes Night, is celebrated on November 5th to commemorate the failed Gunpowder Plot of 1605."
+  },
+  {
+    "question": "What is the name of the UK's national anthem?",
+    "options": [
+      "God Save the Queen",
+      "Land of Hope and Glory",
+      "Rule, Britannia!",
+      "Jerusalem"
+    ],
+    "correct": [0],
+    "explanation": "The UK's national anthem is 'God Save the Queen' (or King, depending on the monarch)."
+  },
+  {
+    "question": "Who can vote in a UK General Election?",
+    "options": [
+      "Anyone over 18 living in the UK",
+      "British citizens and qualifying Commonwealth citizens over 18",
+      "All residents of the UK over 18",
+      "EU citizens living in the UK"
+    ],
+    "correct": [1],
+    "explanation": "Only British citizens, qualifying Commonwealth citizens, and citizens of the Republic of Ireland aged 18 or over can vote in a UK General Election."
+  },
+  {
+    "question": "What is the Church of England also known as?",
+    "options": [
+      "Roman Catholic Church",
+      "Methodist Church",
+      "Anglican Church",
+      "Presbyterian Church"
+    ],
+    "correct": [2],
+    "explanation": "The Church of England is also known as the Anglican Church."
+  },
+  {
+    "question": "Which flower is associated with England?",
+    "options": [
+      "Thistle",
+      "Shamrock",
+      "Rose",
+      "Daffodil"
+    ],
+    "correct": [2],
+    "explanation": "The rose is the national flower of England."
+  },
+  {
+    "question": "What is the role of the Speaker in the House of Commons?",
+    "options": [
+      "To vote on every issue",
+      "To represent the monarch",
+      "To chair debates and ensure rules are followed",
+      "To pass new laws"
+    ],
+    "correct": [2],
+    "explanation": "The Speaker chairs debates in the House of Commons and ensures they are conducted fairly."
+  },
+  {
+    "question": "Who is the Head of State in the UK?",
+    "options": [
+      "The Prime Minister",
+      "The Archbishop of Canterbury",
+      "The King",
+      "The Speaker"
+    ],
+    "correct": [2],
+    "explanation": "The monarch (currently King Charles III) is the Head of State in the UK."
+  },
+  {
+    "question": "When is Remembrance Day held in the UK?",
+    "options": [
+      "11 November",
+      "25 December",
+      "1 January",
+      "5 November"
+    ],
+    "correct": [0],
+    "explanation": "Remembrance Day is held on 11 November to honour those who died in wars."
+  },
+  {
+    "question": "What was the main cause of the English Civil War?",
+    "options": [
+      "Disputes over royal succession",
+      "Religious conflicts",
+      "Power struggles between the King and Parliament",
+      "Foreign invasions"
+    ],
+    "correct": [2],
+    "explanation": "The English Civil War was primarily caused by a struggle for power between King Charles I and Parliament."
+  },
+  {
+    "question": "What does the term 'First Past the Post' refer to?",
+    "options": [
+      "A parliamentary tradition",
+      "The UK's voting system for general elections",
+      "A legal process",
+      "An ancient sports competition"
+    ],
+    "correct": [1],
+    "explanation": "‘First Past the Post' is the voting system used in UK general elections."
+  },
+  {
+    "question": "What is the minimum age to drive a car in the UK?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "correct": [1],
+    "explanation": "You must be at least 17 years old to drive a car in the UK."
+  },
+  {
+    "question": "Which famous playwright was born in Stratford-upon-Avon?",
+    "options": [
+      "Christopher Marlowe",
+      "Oscar Wilde",
+      "William Shakespeare",
+      "Charles Dickens"
+    ],
+    "correct": [2],
+    "explanation": "William Shakespeare, England's most famous playwright, was born in Stratford-upon-Avon."
+  },
+  {
+    "question": "Which of these is a responsibility of the UK government?",
+    "options": [
+      "Setting local council tax",
+      "Running the NHS",
+      "Organising school timetables",
+      "Managing regional transport"
+    ],
+    "correct": [1],
+    "explanation": "The UK government is responsible for the National Health Service (NHS)."
+  },
+  {
+    "question": "What is the Union Jack?",
+    "options": [
+      "The name of the UK army",
+      "The Prime Minister's residence",
+      "The national flag of the UK",
+      "A nickname for Parliament"
+    ],
+    "correct": [2],
+    "explanation": "The Union Jack is the national flag of the United Kingdom."
+  }
+]
+```
+
+Let me know if you'd like these exported to a `.json` file or want to simulate a test.

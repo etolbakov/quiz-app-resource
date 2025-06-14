@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Who is the only British Formula One driver to win seven world championships?",
+    "options": [
+      "Lewis Hamilton",
+      "Jenson Button",
+      "Nigel Mansell",
+      "Damon Hill"
+    ],
+    "correct": [0],
+    "explanation": "Lewis Hamilton has won seven Formula One world championships, equalling Michael Schumacher’s record."
+  },
+  {
+    "question": "Which British author created the Harry Potter series?",
+    "options": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "Philip Pullman",
+      "Roald Dahl"
+    ],
+    "correct": [1],
+    "explanation": "J.K. Rowling is the author of the Harry Potter series, one of the most popular book series in history."
+  },
+  {
+    "question": "Who was the lead singer of the British band Queen?",
+    "options": [
+      "Elton John",
+      "David Bowie",
+      "Freddie Mercury",
+      "Mick Jagger"
+    ],
+    "correct": [2],
+    "explanation": "Freddie Mercury was the iconic lead singer of Queen, known for his powerful voice and stage presence."
+  },
+  {
+    "question": "Which British physicist is known for his work on black holes and wrote 'A Brief History of Time'?",
+    "options": [
+      "Stephen Hawking",
+      "Isaac Newton",
+      "Brian Cox",
+      "Tim Berners-Lee"
+    ],
+    "correct": [0],
+    "explanation": "Stephen Hawking was a renowned theoretical physicist known for his work on cosmology and black holes."
+  },
+  {
+    "question": "Who won the Wimbledon men’s singles title in 2013 and 2016 for Britain?",
+    "options": [
+      "Tim Henman",
+      "Andy Murray",
+      "Roger Taylor",
+      "Greg Rusedski"
+    ],
+    "correct": [1],
+    "explanation": "Andy Murray won Wimbledon in 2013 and 2016, becoming the first British man to win since 1936."
+  },
+  {
+    "question": "Who played James Bond in seven films from 1973 to 1985?",
+    "options": [
+      "Sean Connery",
+      "Roger Moore",
+      "Daniel Craig",
+      "Pierce Brosnan"
+    ],
+    "correct": [1],
+    "explanation": "Roger Moore portrayed James Bond in seven films, more than any other actor."
+  },
+  {
+    "question": "Which British naturalist is famous for his wildlife documentaries?",
+    "options": [
+      "David Attenborough",
+      "Chris Packham",
+      "Steve Irwin",
+      "Brian May"
+    ],
+    "correct": [0],
+    "explanation": "Sir David Attenborough is a world-renowned broadcaster and natural historian known for his nature series."
+  },
+  {
+    "question": "Who is the British actor known for playing Sherlock Holmes in the BBC series 'Sherlock'?",
+    "options": [
+      "Martin Freeman",
+      "Tom Hiddleston",
+      "Daniel Radcliffe",
+      "Benedict Cumberbatch"
+    ],
+    "correct": [3],
+    "explanation": "Benedict Cumberbatch played the modern Sherlock Holmes in the popular BBC TV series."
+  },
+  {
+    "question": "Which British singer became internationally famous with the album '21'?",
+    "options": [
+      "Adele",
+      "Amy Winehouse",
+      "Dua Lipa",
+      "Leona Lewis"
+    ],
+    "correct": [0],
+    "explanation": "Adele's album '21' won multiple awards and became one of the best-selling albums of all time."
+  },
+  {
+    "question": "Who is the creator of the World Wide Web?",
+    "options": [
+      "Bill Gates",
+      "Alan Turing",
+      "Steve Jobs",
+      "Tim Berners-Lee"
+    ],
+    "correct": [3],
+    "explanation": "Sir Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN."
+  },
+  {
+    "question": "Who won the Olympic heptathlon gold medal for Britain in 2012?",
+    "options": [
+      "Mo Farah",
+      "Jessica Ennis-Hill",
+      "Kelly Holmes",
+      "Paula Radcliffe"
+    ],
+    "correct": [1],
+    "explanation": "Jessica Ennis-Hill won the heptathlon gold medal at the London 2012 Olympic Games."
+  },
+  {
+    "question": "Which British band is known for albums like 'A Rush of Blood to the Head'?",
+    "options": [
+      "Arctic Monkeys",
+      "Radiohead",
+      "Coldplay",
+      "Blur"
+    ],
+    "correct": [2],
+    "explanation": "Coldplay is a British rock band known for their melodic style and global hits."
+  },
+  {
+    "question": "Which famous nurse became known for her work during the Crimean War?",
+    "options": [
+      "Mary Seacole",
+      "Florence Nightingale",
+      "Marie Curie",
+      "Elizabeth Fry"
+    ],
+    "correct": [1],
+    "explanation": "Florence Nightingale is credited with founding modern nursing through her work in the Crimean War."
+  },
+  {
+    "question": "Who was the famous British wartime Prime Minister during World War II?",
+    "options": [
+      "Clement Attlee",
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Anthony Eden"
+    ],
+    "correct": [1],
+    "explanation": "Winston Churchill is remembered for his leadership during WWII and stirring speeches."
+  },
+  {
+    "question": "Who is the author of 'Pride and Prejudice'?",
+    "options": [
+      "Emily Brontë",
+      "Jane Austen",
+      "Mary Shelley",
+      "Virginia Woolf"
+    ],
+    "correct": [1],
+    "explanation": "Jane Austen wrote 'Pride and Prejudice', a classic of English literature."
+  },
+  {
+    "question": "Who played Harry Potter in the film series?",
+    "options": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Tom Felton",
+      "Elijah Wood"
+    ],
+    "correct": [0],
+    "explanation": "Daniel Radcliffe starred as Harry Potter in all eight films of the series."
+  },
+  {
+    "question": "Which British actress played Queen Elizabeth II in the Netflix series 'The Crown' (Season 1–2)?",
+    "options": [
+      "Olivia Colman",
+      "Helena Bonham Carter",
+      "Claire Foy",
+      "Imelda Staunton"
+    ],
+    "correct": [2],
+    "explanation": "Claire Foy portrayed the young Queen Elizabeth II in the first two seasons of 'The Crown'."
+  },
+  {
+    "question": "Who was a British theoretical physicist and mathematician, famous for the theory of gravity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Charles Darwin",
+      "Michael Faraday"
+    ],
+    "correct": [1],
+    "explanation": "Sir Isaac Newton developed the law of universal gravitation in the 17th century."
+  },
+  {
+    "question": "Which British boxer became a world heavyweight champion in 2015?",
+    "options": [
+      "Lennox Lewis",
+      "Frank Bruno",
+      "Tyson Fury",
+      "Anthony Joshua"
+    ],
+    "correct": [2],
+    "explanation": "Tyson Fury became the world heavyweight boxing champion after defeating Wladimir Klitschko in 2015."
+  },
+  {
+    "question": "Which British Paralympian is known for winning 16 gold medals in swimming?",
+    "options": [
+      "Tanni Grey-Thompson",
+      "David Weir",
+      "Ellie Simmonds",
+      "Dame Sarah Storey"
+    ],
+    "correct": [3],
+    "explanation": "Dame Sarah Storey is Britain’s most successful Paralympian with multiple gold medals in swimming and cycling."
+  }
+]
