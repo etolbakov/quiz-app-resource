@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "question": "What year did the Battle of Hastings take place?",
+    "options": [
+      "1066",
+      "1215",
+      "1485",
+      "1666"
+    ],
+    "correct": [0],
+    "explanation": "The Battle of Hastings occurred in 1066, marking the Norman conquest of England."
+  },
+  {
+    "question": "Who was the first Tudor monarch?",
+    "options": [
+      "Henry VIII",
+      "Elizabeth I",
+      "Edward VI",
+      "Henry VII"
+    ],
+    "correct": [3],
+    "explanation": "Henry VII became the first Tudor monarch after defeating Richard III at the Battle of Bosworth in 1485."
+  },
+  {
+    "question": "What document was signed in 1215 limiting the powers of the king?",
+    "options": [
+      "The Magna Carta",
+      "The Bill of Rights",
+      "The Act of Union",
+      "The Habeas Corpus Act"
+    ],
+    "correct": [0],
+    "explanation": "The Magna Carta was signed in 1215 and limited the powers of the monarch."
+  },
+  {
+    "question": "Which British Prime Minister led the country during most of World War II?",
+    "options": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Harold Macmillan"
+    ],
+    "correct": [1],
+    "explanation": "Winston Churchill was Prime Minister during most of World War II and is remembered for his leadership."
+  },
+  {
+    "question": "In what year did the UK join the European Economic Community (EEC)?",
+    "options": [
+      "1957",
+      "1973",
+      "1985",
+      "1992"
+    ],
+    "correct": [1],
+    "explanation": "The UK joined the EEC (which later became the EU) in 1973."
+  },
+  {
+    "question": "Who was the Queen during the Victorian era?",
+    "options": [
+      "Queen Anne",
+      "Queen Elizabeth I",
+      "Queen Victoria",
+      "Queen Mary"
+    ],
+    "correct": [2],
+    "explanation": "Queen Victoria reigned from 1837 to 1901, a period known for industrial progress and the British Empire's expansion."
+  },
+  {
+    "question": "What major event occurred in London in 1666?",
+    "options": [
+      "The English Civil War",
+      "The Great Fire of London",
+      "The Glorious Revolution",
+      "The signing of the Magna Carta"
+    ],
+    "correct": [1],
+    "explanation": "The Great Fire of London in 1666 destroyed much of the city."
+  },
+  {
+    "question": "Who was the English king executed in 1649?",
+    "options": [
+      "Henry VIII",
+      "James I",
+      "Charles I",
+      "Edward VI"
+    ],
+    "correct": [2],
+    "explanation": "King Charles I was executed in 1649 after being defeated in the English Civil War."
+  },
+  {
+    "question": "Which war was fought between the Houses of York and Lancaster?",
+    "options": [
+      "The Hundred Years’ War",
+      "The English Civil War",
+      "The War of the Roses",
+      "The Napoleonic Wars"
+    ],
+    "correct": [2],
+    "explanation": "The War of the Roses was a conflict between the Houses of York and Lancaster for the English throne."
+  },
+  {
+    "question": "Which famous battle did Admiral Nelson win in 1805?",
+    "options": [
+      "Battle of Hastings",
+      "Battle of the Somme",
+      "Battle of Trafalgar",
+      "Battle of Waterloo"
+    ],
+    "correct": [2],
+    "explanation": "Admiral Nelson defeated the French and Spanish fleets at the Battle of Trafalgar in 1805."
+  },
+  {
+    "question": "What was the name of the first female Prime Minister of the UK?",
+    "options": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Barbara Castle",
+      "Harriet Harman"
+    ],
+    "correct": [1],
+    "explanation": "Margaret Thatcher was the UK's first female Prime Minister, serving from 1979 to 1990."
+  },
+  {
+    "question": "When did World War I begin?",
+    "options": [
+      "1912",
+      "1914",
+      "1918",
+      "1920"
+    ],
+    "correct": [1],
+    "explanation": "World War I began in 1914 and lasted until 1918."
+  },
+  {
+    "question": "Which Roman structure still stands across Northern England?",
+    "options": [
+      "The London Wall",
+      "Hadrian’s Wall",
+      "Offa’s Dyke",
+      "Stonehenge"
+    ],
+    "correct": [1],
+    "explanation": "Hadrian’s Wall was built by the Romans to protect their colony in Britain from northern tribes."
+  },
+  {
+    "question": "What major social reform happened in 1918?",
+    "options": [
+      "Introduction of the National Health Service",
+      "Women over 30 got the vote",
+      "Abolition of the monarchy",
+      "Independence of India"
+    ],
+    "correct": [1],
+    "explanation": "In 1918, some women in the UK gained the right to vote for the first time."
+  },
+  {
+    "question": "When did the Black Death reach England?",
+    "options": [
+      "1066",
+      "1215",
+      "1348",
+      "1485"
+    ],
+    "correct": [2],
+    "explanation": "The Black Death arrived in England in 1348, killing a large portion of the population."
+  },
+  {
+    "question": "Who led the Norman invasion of England?",
+    "options": [
+      "William the Conqueror",
+      "Richard the Lionheart",
+      "Edward the Confessor",
+      "Harold Godwinson"
+    ],
+    "correct": [0],
+    "explanation": "William the Conqueror led the Norman invasion and became King of England in 1066."
+  },
+  {
+    "question": "Which country did the UK fight in the Falklands War?",
+    "options": [
+      "Spain",
+      "France",
+      "Argentina",
+      "Portugal"
+    ],
+    "correct": [2],
+    "explanation": "The Falklands War was fought between the UK and Argentina in 1982."
+  },
+  {
+    "question": "Who was known as the ‘Iron Lady’?",
+    "options": [
+      "Queen Elizabeth I",
+      "Margaret Thatcher",
+      "Theresa May",
+      "Queen Victoria"
+    ],
+    "correct": [1],
+    "explanation": "Margaret Thatcher was nicknamed the ‘Iron Lady’ for her strong leadership style."
+  },
+  {
+    "question": "When did the Acts of Union create the United Kingdom of Great Britain?",
+    "options": [
+      "1603",
+      "1707",
+      "1801",
+      "1914"
+    ],
+    "correct": [1],
+    "explanation": "The Acts of Union 1707 joined England and Scotland to create Great Britain."
+  },
+  {
+    "question": "What movement aimed to abolish slavery in the UK?",
+    "options": [
+      "The Enlightenment",
+      "The Chartist Movement",
+      "The Suffragettes",
+      "The Abolitionist Movement"
+    ],
+    "correct": [3],
+    "explanation": "The Abolitionist Movement campaigned for the end of slavery, which was abolished in the UK in 1833."
+  }
+]

@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "question": "What type of government does the UK have?",
+    "options": [
+      "Absolute monarchy",
+      "Federal republic",
+      "Constitutional monarchy and parliamentary democracy",
+      "Presidential democracy"
+    ],
+    "correct": [2],
+    "explanation": "The UK is a constitutional monarchy and parliamentary democracy, meaning the monarch shares power with an elected parliament."
+  },
+  {
+    "question": "Who is the Head of Government in the UK?",
+    "options": [
+      "The King",
+      "The Prime Minister",
+      "The Speaker",
+      "The Lord Chancellor"
+    ],
+    "correct": [1],
+    "explanation": "The Prime Minister is the Head of Government, responsible for leading the UK government."
+  },
+  {
+    "question": "What are the two main political parties in the UK?",
+    "options": [
+      "Conservative and Liberal Democrat",
+      "Labour and Conservative",
+      "Green and UKIP",
+      "Labour and Scottish National"
+    ],
+    "correct": [1],
+    "explanation": "The two main political parties in the UK are the Conservative Party and the Labour Party."
+  },
+  {
+    "question": "What is the role of the opposition in Parliament?",
+    "options": [
+      "To assist the ruling party",
+      "To challenge and question the government",
+      "To count votes",
+      "To write new laws"
+    ],
+    "correct": [1],
+    "explanation": "The opposition's role is to challenge the government's policies and offer alternative proposals."
+  },
+  {
+    "question": "How often are general elections held in the UK?",
+    "options": [
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years",
+      "Every 6 years"
+    ],
+    "correct": [2],
+    "explanation": "UK general elections are held every 5 years, unless an earlier election is called."
+  },
+  {
+    "question": "Who can sit in the House of Lords?",
+    "options": [
+      "Only elected officials",
+      "Judges and civil servants",
+      "Peers including life peers and bishops",
+      "Members of the European Parliament"
+    ],
+    "correct": [2],
+    "explanation": "The House of Lords is made up of appointed members, including life peers, bishops, and hereditary peers."
+  },
+  {
+    "question": "What is the role of the judiciary in the UK?",
+    "options": [
+      "To make laws",
+      "To enforce military discipline",
+      "To interpret and apply the law",
+      "To collect taxes"
+    ],
+    "correct": [2],
+    "explanation": "The judiciary interprets and applies the law and ensures justice is served in legal matters."
+  },
+  {
+    "question": "What is the supreme legal authority in the UK?",
+    "options": [
+      "The Prime Minister",
+      "The Supreme Court",
+      "The King",
+      "The European Court of Justice"
+    ],
+    "correct": [1],
+    "explanation": "The Supreme Court is the highest legal authority in the UK and hears final appeals on important legal matters."
+  },
+  {
+    "question": "Who appoints life peers to the House of Lords?",
+    "options": [
+      "The Monarch on advice of the Prime Minister",
+      "The House of Commons",
+      "The Speaker of the House",
+      "The people via election"
+    ],
+    "correct": [0],
+    "explanation": "Life peers are appointed by the monarch on the advice of the Prime Minister or an independent commission."
+  },
+  {
+    "question": "Which UK government department is responsible for foreign affairs?",
+    "options": [
+      "Home Office",
+      "Ministry of Defence",
+      "Foreign, Commonwealth and Development Office",
+      "Treasury"
+    ],
+    "correct": [2],
+    "explanation": "The Foreign, Commonwealth and Development Office handles the UK's relationships with other countries."
+  },
+  {
+    "question": "What must all citizens do if they are selected for jury service?",
+    "options": [
+      "Refuse if they are busy",
+      "Attend and serve unless exempt",
+      "Hire a replacement",
+      "Pay a fine instead"
+    ],
+    "correct": [1],
+    "explanation": "Jury service is a legal duty and must be attended unless one is exempt or has a valid reason for postponement."
+  },
+  {
+    "question": "What is the minimum age to vote in UK general elections?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "correct": [2],
+    "explanation": "You must be 18 or over to vote in UK general elections."
+  },
+  {
+    "question": "Which document outlines the basic rights of UK citizens?",
+    "options": [
+      "The Bill of Rights 1689",
+      "The Magna Carta",
+      "The Human Rights Act 1998",
+      "The Constitution"
+    ],
+    "correct": [2],
+    "explanation": "The Human Rights Act 1998 incorporates the European Convention on Human Rights into UK law."
+  },
+  {
+    "question": "What is the role of the Home Secretary?",
+    "options": [
+      "To manage economic policy",
+      "To oversee education",
+      "To be responsible for policing, immigration, and security",
+      "To lead foreign negotiations"
+    ],
+    "correct": [2],
+    "explanation": "The Home Secretary is responsible for internal affairs such as policing, security, and immigration."
+  },
+  {
+    "question": "Which of these is a devolved power of the Scottish Parliament?",
+    "options": [
+      "Foreign policy",
+      "Defence",
+      "Education",
+      "Currency management"
+    ],
+    "correct": [2],
+    "explanation": "Education is one of the devolved matters managed by the Scottish Parliament."
+  },
+  {
+    "question": "What is the name of the UK's national police force?",
+    "options": [
+      "Scotland Yard",
+      "The Met Police",
+      "There is no single national police force",
+      "Royal Police Service"
+    ],
+    "correct": [2],
+    "explanation": "Policing in the UK is managed regionally; there is no single national police force."
+  },
+  {
+    "question": "What happens at Prime Minister's Questions (PMQs)?",
+    "options": [
+      "Laws are passed",
+      "The Prime Minister asks questions",
+      "The public questions MPs",
+      "MPs question the Prime Minister"
+    ],
+    "correct": [3],
+    "explanation": "Prime Minister's Questions is a weekly event where MPs can question the Prime Minister about government work."
+  },
+  {
+    "question": "Which court deals with serious criminal cases in England and Wales?",
+    "options": [
+      "Magistrates' Court",
+      "Crown Court",
+      "County Court",
+      "Family Court"
+    ],
+    "correct": [1],
+    "explanation": "The Crown Court handles serious criminal cases, such as murder or robbery."
+  },
+  {
+    "question": "Which body makes laws in the UK?",
+    "options": [
+      "The Police",
+      "The Civil Service",
+      "The Judiciary",
+      "Parliament"
+    ],
+    "correct": [3],
+    "explanation": "UK laws are made by Parliament, which includes the House of Commons and House of Lords."
+  },
+  {
+    "question": "What is a manifesto?",
+    "options": [
+      "A government document outlining legal reforms",
+      "A statement of a political party's policies and proposals",
+      "A court order",
+      "A type of tax return"
+    ],
+    "correct": [1],
+    "explanation": "A manifesto is a public declaration by a political party of its policies and goals, usually during elections."
+  }
+]

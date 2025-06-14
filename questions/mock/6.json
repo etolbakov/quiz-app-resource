@@ -1,0 +1,223 @@
+[
+
+    {
+      "question": "What is the name of the famous British rock band that included members John Lennon and Paul McCartney?",
+      "options": [
+        "The Rolling Stones",
+        "The Who",
+        "The Beatles",
+        "Pink Floyd"
+      ],
+      "correct": [2],
+      "explanation": "The Beatles, formed in Liverpool in 1960, are one of the most influential bands in music history, with members John Lennon and Paul McCartney being iconic figures."
+    },
+    {
+      "question": "What is the name of the UK's largest national park?",
+      "options": [
+        "Lake District National Park",
+        "Snowdonia National Park",
+        "Yorkshire Dales National Park",
+        "Cairngorms National Park"
+      ],
+      "correct": [3],
+      "explanation": "Cairngorms National Park, located in Scotland, is the largest national park in the UK, known for its stunning landscapes and diverse wildlife."
+  },
+    {
+      "question": "Which British author wrote the 'Harry Potter' series?",
+      "options": [
+        "J.R.R. Tolkien",
+        "J.K. Rowling",
+        "C.S. Lewis",
+        "Philip Pullman"
+      ],
+      "correct": [1],
+      "explanation": "J.K. Rowling is the British author who wrote the 'Harry Potter' series, which has become one of the best-selling book series in history."
+    },
+    {
+      "question": "What is the name of the famous British landmark that is a clock tower in London?",
+      "options": [
+        "The Shard",
+        "Big Ben",
+        "The Gherkin",
+        "The Tower of London"
+      ],
+      "correct": [1],
+      "explanation": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London, often mistakenly referred to as the clock tower itself."
+    },  
+    {
+      "question": "What is the name of the British holiday celebrated on the last Monday in May?",
+      "options": [
+        "Easter Monday",
+        "May Day",
+        "Spring Bank Holiday",
+        "Whitsun"
+      ],
+      "correct": [2],
+      "explanation": "The Spring Bank Holiday is celebrated on the last Monday in May in the UK, marking the unofficial start of summer."
+    },
+    {
+      "question": "Which British city is known for its historic Roman baths?",
+      "options": [
+        "Bath",
+        "York",
+        "Liverpool",
+        "Birmingham"
+      ],
+      "correct": [0],
+      "explanation": "The city of Bath in Somerset is famous for its Roman baths, which are a well-preserved ancient bathing complex."
+    },
+  {
+      "question": "What is the name of the UK's largest city by population?",
+      "options": [
+        "Birmingham",
+        "Manchester",
+        "London",
+        "Glasgow"
+      ],
+      "correct": [2],
+      "explanation": "London is the largest city in the UK by population, with a diverse and vibrant cultural scene."
+    },
+    {
+      "question": "Which British city is known for its historic university?",
+      "options": [
+        "Oxford",
+        "Cambridge",
+        "Edinburgh",
+        "Bristol"
+      ],
+      "correct": [0],
+      "explanation": "Oxford is known for the University of Oxford, one of the oldest and most prestigious universities in the world."
+    },
+    {
+      "question": "What is the name of the UK's national flower?",
+      "options": [
+        "Rose",
+        "Thistle",
+        "Daffodil",
+        "Shamrock"
+      ],
+      "correct": [0],
+      "explanation": "The rose is often considered the national flower of England, symbolizing love and beauty."
+    }
+  {
+      "question": "What is the name of the UK's national sport?",
+      "options": [
+        "Rugby",
+        "Cricket",
+        "Football (Soccer)",
+        "Tennis"
+      ],
+      "correct": [2],
+      "explanation": "Football (soccer) is widely regarded as the national sport of the UK, with a rich history and a passionate following."
+    },
+    {
+      "question": "Which British city is famous for its annual Notting Hill Carnival?",
+      "options": [
+        "London",
+        "Birmingham",
+        "Manchester",
+        "Liverpool"
+      ],
+      "correct": [0],
+      "explanation": "The Notting Hill Carnival, held in London, is one of the largest street festivals in Europe, celebrating Caribbean culture and heritage."
+    },
+    {
+      "question": "What is the name of the UK's largest lake?",
+      "options": [
+        "Loch Ness",
+        "Lake Windermere",
+        "Lough Neagh",
+        "Loch Lomond"
+      ],
+      "correct": [2],
+      "explanation": "Lough Neagh in Northern Ireland is the largest lake in the UK by surface area, covering about 151 square miles (392 square kilometers)."
+    },  
+    {
+      "question": "Which British city is known for its historic castle and the annual Edinburgh Festival?",
+      "options": [
+        "Glasgow",
+        "Edinburgh",
+        "Cardiff",
+        "Belfast"
+      ],
+      "correct": [1],
+      "explanation": "Edinburgh is known for its historic castle and the annual Edinburgh Festival, which includes the famous Fringe Festival."
+    },
+    {
+      "question": "What is the name of the UK's national airline?",
+      "options": [
+        "Virgin Atlantic",
+        "British Airways",
+        "EasyJet",
+        "Ryanair"
+      ],
+      "correct": [1],
+      "explanation": "British Airways is the UK's national airline, known for its extensive international and domestic flight network."
+    },
+    {
+      "question": "What is the name of the UK's national flower?",
+      "options": [
+        "Rose",
+        "Thistle",
+        "Daffodil",
+        "Shamrock"
+      ],
+      "correct": [0],
+      "explanation": "The rose is often considered the national flower of England, symbolizing love and beauty."
+    },
+  {
+      "question": "What is the name of the UK's national sport?",
+      "options": [
+        "Rugby",
+        "Cricket",
+        "Football (Soccer)",
+        "Tennis"
+      ],
+      "correct": [2],
+      "explanation": "Football (soccer) is widely regarded as the national sport of the UK, with a rich history and a passionate following."
+    },
+    {
+      "question": "Which British city is famous for its annual Notting Hill Carnival?",
+      "options": [
+        "London",
+        "Birmingham",
+        "Manchester",
+        "Liverpool"
+      ],
+      "correct": [0],
+      "explanation": "The Notting Hill Carnival, held in London, is one of the largest street festivals in Europe, celebrating Caribbean culture and heritage."
+    },
+    {
+      "question": "What is the name of the UK's largest lake?",
+      "options": [
+        "Loch Ness",
+        "Lake Windermere",
+        "Lough Neagh",
+        "Loch Lomond"
+      ],
+      "correct": [2],
+      "explanation": "Lough Neagh in Northern Ireland is the largest lake in the UK by surface area, covering about 151 square miles (392 square kilometers)."
+    },  
+    {
+      "question": "Which British city is known for its historic castle and the annual Edinburgh Festival?",
+      "options": [
+        "Glasgow",
+        "Edinburgh",
+        "Cardiff",
+        "Belfast"
+      ],
+      "correct": [1],
+      "explanation": "Edinburgh is known for its historic castle and the annual Edinburgh Festival, which includes the famous Fringe Festival."
+    },
+    {
+      "question": "What is the name of the UK's national airline?",
+      "options": [
+        "Virgin Atlantic",
+        "British Airways",
+        "EasyJet",
+        "Ryanair"
+      ],
+      "correct": [1],
+      "explanation": "British Airways is the UK's national airline, known for its extensive international and domestic flight network."
+    }
+]
